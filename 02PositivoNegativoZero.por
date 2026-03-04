@@ -1,6 +1,6 @@
 programa
 {
-	
+// 2. Faça um programa que leia um valor informado pelo usuário e diga se o valor informado é positivo, negativo ou zero.
 	funcao inicio()
 	{
 		inteiro valor_informado
