@@ -1,6 +1,6 @@
 programa
 {
-	
+// 3. Faça um programa para ler 3 valores (considere que não serão informados valores iguais) e escrever o maior deles.
 	funcao inicio()
 	{
 		inteiro numero1, numero2, numero3
