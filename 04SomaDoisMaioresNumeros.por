@@ -1,6 +1,6 @@
 programa
 {
-	
+// 4. Faça um programa que leia 3 valores informados pelo usuário (considere que não serão informados valores iguais) e escrever a soma dos 2 maiores.
 	funcao inicio()
 	{
 		inteiro numero1, numero2, numero3
