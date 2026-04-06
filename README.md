@@ -1,22 +1,25 @@
-# 🧠 Atividade PROA - Hora de Codar 2
+# 🧠 Atividade PROA - Hora de Codar 2 (Portugol)
 
-Este repositório contém exercícios desenvolvidos durante a segunda etapa do módulo "Hora de Codar" do PROA, com foco no aprimoramento da lógica de programação utilizando Portugol Studio.
+Exercícios focados no avanço da lógica de programação.
 
-## 📚 Objetivo
+## 📚 Sobre o projeto
 
-Praticar e consolidar conceitos como:
-
-- Estruturas condicionais mais complexas
-- Laços de repetição (enquanto, para)
-- Problemas envolvendo lógica combinada
-
-## 🛠️ Tecnologias
-
-- Portugol Studio
+- Estruturas condicionais
+- Laços de repetição
+- Problemas com lógica combinada
 
 ## 🚀 Como executar
 
-1. Instale o Portugol Studio
-2. Clone o repositório:
-   ```bash
-   git clone https://github.com/osamuelelvis/ativdadePROAHoraDeCodar2.git
+1. Baixe e instale o Portugol Studio
+2. Clone este repositório:
+```bash
+git clone https://github.com/osamuelelvis/atividadePROAHoraDeCodar2.git
+```
+3. Abra os arquivos no Portugol Studio
+4. Execute os algoritmos
+
+Abrir no Portugol Studio e executar.
+
+## 📌 Status
+
+✅ Concluído
